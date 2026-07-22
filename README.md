@@ -92,7 +92,7 @@ Two-site enterprise environment simulating a Headquarters and Branch office conn
 | HQ-STAFF-01 | 10.10.10.59 | Windows 10 domain-joined workstation |
 | Kali Linux | 10.10.10.60 | Attacker workstation (Month 2) |
 
-![Lab Topology](diagrams/lab-topology-month-2-attacker.png)
+![Lab Topology](Diagrams/lab-topology-month-2-attacker.png)
 
 
 ## Highlights
