@@ -7,7 +7,7 @@
 | **Intern Name** | Abdimalik Yusuf Mohamud |
 | **Role** | Network & Security Intern |
 | **Environment** | Self-Directed Enterprise Infrastructure Lab |
-| **Reporting Period** | Month 1 and Month 2 |
+| **Reporting Period** | Month 2
 | **Report Type** | Infrastructure Deployment and SOC Operations Report |
 
 ---

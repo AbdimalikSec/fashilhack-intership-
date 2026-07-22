@@ -49,6 +49,7 @@ Both sides of a modern security career in one project:
 │   └── fashilhack-intership-month-2.docx
 ├── full-report/
 │   └── full-intership.docx            # Combined Word document
+|   └── full intership.pdf             # full report pdf 
 ├── incident-reports/
 │   ├── IR-2026-001-brute-force.md
 │   ├── IR-2026-002-anonymous-smb.md
